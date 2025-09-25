@@ -29,4 +29,4 @@
 ---
 
 ## 📂 Documentación
-👉 [Consulta la documentación completa en Google Sheets]([https://docs.google.com](https://docs.google.com/document/d/1pdtX1AXiNkZyN2OHj3OrAdOKxTwHlp7y/edit?usp=sharing&ouid=112657294087284506568&rtpof=true&sd=true)
+👉 [Consulta la documentación completa en Google Sheets](https://docs.google.com/document/d/1pdtX1AXiNkZyN2OHj3OrAdOKxTwHlp7y/edit?usp=sharing&ouid=112657294087284506568&rtpof=true&sd=true)
